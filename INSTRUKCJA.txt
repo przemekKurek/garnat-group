@@ -1,0 +1,28 @@
+GARNAT GROUP – NOWOCZESNE STUDIO / STRONA Z KATALOGIEM
+
+PIERWSZA PUBLIKACJA
+1. Rozpakuj archiwum.
+2. Wgraj index.html, styles.css, katalog.css, site.js, katalog.js, katalog-dane.js, katalog-bez-js.html i folder images bezpośrednio do repozytorium GitHub lub na hosting.
+3. Zachowaj nazwy i strukturę folderów. Nie wgrywaj samego HTML.
+4. Plik edytor-katalogu.html możesz zachować na komputerze; nie jest potrzebny do działania publicznej strony.
+
+DODAWANIE GRAFIK
+1. Otwórz edytor-katalogu.html w przeglądarce na komputerze.
+2. Dodaj pliki JPG, PNG, WebP, GIF lub AVIF. Możesz wybrać wiele naraz.
+3. Usuń przykłady, jeśli chcesz zastąpić je własnymi.
+4. Ustaw tytuły, kategorie, opisy i kolejność. Każdy plik to jedna strona; okładka jest automatyczna.
+5. Kliknij „Pobierz stronę z katalogiem (.zip)”.
+6. Rozpakuj paczkę i wgraj jej pliki oraz folder images do istniejącego repozytorium/hostingu.
+7. Zachowaj nowy plik edytora: będzie zawierał aktualną kolekcję.
+
+Edytor nie zapisuje zmian automatycznie na serwerze. Nowe grafiki zachowują oryginalną jakość i format, więc warto wcześniej zmniejszyć bardzo duże zdjęcia.
+
+ŁADOWANIE
+HTML nie zawiera danych zdjęć. Na wejściu pobierane są obrazy strony głównej (zdjęcia oferty korzystają z loading=lazy). Grafiki katalogu nie mają src, dopóki użytkownik nie przejdzie na odpowiednią stronę. Okładka nie pobiera żadnej grafiki katalogowej. Na komputerze pobierane są dwie strony rozkładówki, na telefonie jedna. Pobrane obrazy nie są ponownie przypisywane przy powrocie.
+
+TEST
+W DevTools wybierz Network, wyłącz cache, przeładuj stronę i wyszukaj „katalog-”. Przed otwarciem katalogu i na okładce nie powinno być żądań obrazów images/katalog-*. Po przejściu dalej pojawią się odpowiednie pliki. Pliki katalog.js i katalog-dane.js są niewielkie i ładują się wcześniej.
+
+Bez JavaScriptu dostępny jest link do prostego katalogu na osobnej stronie.
+
+Lokalnie możesz otworzyć index.html w przeglądarce albo uruchomić w folderze serwer: python -m http.server 8000.
