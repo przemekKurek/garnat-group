@@ -17,3 +17,48 @@
 @media(max-width:800px){.catalog-dialog .fullscreen-tool{display:none}.catalog-dialog .leaflet-actions{flex-shrink:0}.catalog-dialog .leaflet-tool{white-space:nowrap;padding:9px 10px}.catalog-dialog .leaflet-brand{font-size:16px}.catalog-dialog .leaflet-sub{font-size:8px}.catalog-dialog .leaflet-top{gap:10px}.catalog-dialog .leaflet-book{max-width:100%}}
 @media(max-width:360px){.catalog-dialog .leaflet-brand{font-size:14px}.catalog-dialog .leaflet-tool{font-size:11px;padding:9px 8px}.catalog-dialog .leaflet-actions{gap:5px}}
 @media(max-height:560px){.catalog-dialog .leaflet-top{padding:8px 14px}.catalog-dialog .leaflet-sub{display:none}.catalog-dialog .leaflet-stage{padding:10px 18px}.catalog-dialog .leaflet-book{height:55dvh}.catalog-dialog .leaflet-page{padding:12px}.catalog-dialog .leaflet-page h3{font-size:20px;margin:6px 0 10px}.catalog-dialog .leaflet-page .page-desc{display:none}.catalog-dialog .page-folio{font-size:8px;padding-top:6px;margin-top:6px}.catalog-dialog .leaflet-page .eyebrow{font-size:8px}.catalog-dialog .leaflet-cover p,.catalog-dialog .cover-kicker{display:none}.catalog-dialog .cover-mark{font-size:34px;margin-top:10px}.catalog-dialog .leaflet-cover .cover-word{font-size:32px;margin:12px 0}.catalog-dialog .leaflet-bottom{padding:8px 12px;gap:6px}.catalog-dialog .leaflet-hint{display:none}.catalog-dialog .leaflet-pages button{min-height:30px;padding-block:3px}.catalog-dialog .is-zoomed .leaflet-book{height:150dvh}.catalog-dialog .is-zoomed .leaflet-page .page-desc{display:block}}
+/* Mobile viewer: fit the page to the actual space between the toolbars. */
+.catalog-dialog.is-mobile{width:100%;max-width:100%;height:var(--catalog-height,100dvh);max-height:var(--catalog-height,100dvh)}
+.is-mobile .leaflet-shell{height:100%;min-height:0;overflow:hidden}
+.is-mobile .leaflet-top{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;gap:8px;flex-shrink:0;padding:10px 12px;padding-top:max(10px,env(safe-area-inset-top))}
+.is-mobile .leaflet-brand{font-size:14px;line-height:1.2;letter-spacing:.04em;overflow-wrap:anywhere}
+.is-mobile .leaflet-sub{display:none}
+.is-mobile .leaflet-actions{gap:6px}
+.is-mobile .leaflet-tool{min-height:44px;padding:9px 10px;font-size:12px;white-space:nowrap}
+.catalog-dialog.is-mobile .fullscreen-tool{display:none}
+.is-mobile .leaflet-stage{flex:1 1 0;min-width:0;min-height:0;display:flex;align-items:center;justify-content:center;padding:12px 10px;overflow:auto;overscroll-behavior:contain}
+.catalog-dialog.is-mobile .leaflet-book{display:flex;flex-shrink:0;min-width:0;max-width:none;max-height:none;filter:drop-shadow(0 7px 15px #0005)}
+.catalog-dialog.is-mobile .leaflet-page:not([hidden]){display:grid;grid-template-rows:auto auto minmax(0,1fr) auto auto;gap:9px;flex:0 0 100%;width:100%;height:100%;min-width:0;max-width:none;aspect-ratio:auto;padding:16px;border:0;animation:none}
+.catalog-dialog.is-mobile .leaflet-page .eyebrow{font-size:9px;line-height:1.3;letter-spacing:.1em;margin:0}
+.catalog-dialog.is-mobile .leaflet-page h3{font-size:22px;line-height:1.12;margin:0;overflow-wrap:anywhere}
+.catalog-dialog.is-mobile .leaflet-page img{display:block;width:100%;height:100%;min-width:0;min-height:0;max-width:100%;max-height:100%;object-fit:contain;aspect-ratio:auto;background:#eee7df}
+.catalog-dialog.is-mobile .leaflet-page .page-desc{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden;font-size:11px;line-height:1.45;margin:0}
+.catalog-dialog.is-mobile .page-folio{display:flex;align-items:center;justify-content:space-between;gap:8px;font-size:8px;line-height:1.3;padding-top:7px;margin:0;letter-spacing:.04em}
+.catalog-dialog.is-mobile .leaflet-cover:not([hidden]){display:flex;flex-direction:column;justify-content:space-between;gap:10px;background:#111;color:#f6f2ee;padding:22px;border:1px solid #b96f4366}
+.catalog-dialog.is-mobile .cover-mark{font-size:54px;line-height:1;margin:0}
+.catalog-dialog.is-mobile .cover-kicker{display:block;font-size:8px;line-height:1.4;letter-spacing:.1em;margin:0}
+.catalog-dialog.is-mobile .leaflet-cover .cover-word{font-size:clamp(30px,9vw,48px);line-height:.95;margin:0}
+.catalog-dialog.is-mobile .leaflet-cover p{display:block;font-size:11px;line-height:1.45;margin:0}
+.catalog-dialog.is-mobile .leaflet-cover p+p{display:none}
+.catalog-dialog.is-mobile .leaflet-cover .page-folio{margin:0;padding-top:8px}
+.catalog-dialog.is-mobile .leaflet-bottom{flex:0 0 auto;padding:10px 12px;gap:8px;padding-bottom:max(10px,env(safe-area-inset-bottom))}
+.is-mobile .leaflet-controls{width:100%;max-width:330px;justify-content:space-between;gap:12px}
+.is-mobile .leaflet-arrow{width:44px;height:44px;min-height:44px;flex-shrink:0}
+.is-mobile .leaflet-counter{min-width:0;font-size:12px}
+.is-mobile .leaflet-pages{max-width:100%;gap:6px}
+.is-mobile .leaflet-pages button{min-width:36px;min-height:36px;padding:5px 10px}
+.catalog-dialog.is-mobile .leaflet-hint{display:none}
+.catalog-dialog.is-mobile .leaflet-stage.is-zoomed{display:block;touch-action:pan-x pan-y pinch-zoom}
+.catalog-dialog.is-mobile .is-zoomed .leaflet-book{margin:0 auto;filter:none}
+.catalog-dialog.is-mobile.is-compact .leaflet-page:not([hidden]){padding:10px;gap:6px}
+.catalog-dialog.is-mobile.is-compact .leaflet-page h3{font-size:17px}
+.catalog-dialog.is-mobile.is-compact .leaflet-page .page-desc{display:none}
+.catalog-dialog.is-mobile.is-compact .leaflet-page{grid-template-rows:auto auto minmax(0,1fr) auto}
+.catalog-dialog.is-mobile.is-compact .leaflet-cover:not([hidden]){padding:15px;gap:6px}
+.catalog-dialog.is-mobile.is-compact .cover-mark,.catalog-dialog.is-mobile.is-compact .cover-kicker,.catalog-dialog.is-mobile.is-compact .leaflet-cover p{display:none}
+.catalog-dialog.is-mobile.is-compact .leaflet-cover .cover-word{font-size:clamp(24px,7vw,36px)}
+.catalog-dialog.is-mobile .leaflet-page:not(.leaflet-cover) h3{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden}
+.catalog-dialog.is-mobile .leaflet-page:not(.leaflet-cover) .eyebrow{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.catalog-dialog.is-mobile .leaflet-cover .cover-word{font-size:clamp(20px,calc(var(--mobile-page-width,300px)*.13),48px)}
+.catalog-dialog.is-mobile.is-compact .leaflet-cover .cover-word{font-size:clamp(19px,calc(var(--mobile-page-width,250px)*.13),36px)}
+@media(orientation:landscape) and (min-width:600px){.catalog-dialog.is-mobile .leaflet-bottom{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;gap:20px;padding:8px 16px;padding-bottom:max(8px,env(safe-area-inset-bottom))}.catalog-dialog.is-mobile .leaflet-controls{justify-self:center}.catalog-dialog.is-mobile .leaflet-pages{max-width:42vw}}
