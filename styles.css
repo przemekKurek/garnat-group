@@ -70,3 +70,6 @@ p, .contact-item, .hero-meta{font-weight:400}.hero-lead,.section-intro,.offer-ca
  .brand-wordmark{width:128px}
  .brand-name span{font-size:6px;letter-spacing:.05em}
 }
+
+/* Kategorie oferty */
+.category-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px;margin-top:56px}.category-card{position:relative;border:1px solid var(--copper);border-radius:20px;padding:32px 36px;background:transparent}.category-number{font-size:11px;letter-spacing:.14em;color:var(--copper);margin-bottom:14px}.category-card h3{font:400 clamp(26px,3vw,36px)/1.15 Manrope,Arial,sans-serif;letter-spacing:-.04em;margin:0 0 20px}.category-card ul{margin:0 0 24px;padding-left:20px;display:grid;gap:10px;font-size:15px;line-height:1.55}.category-card li::marker{color:var(--copper)}.category-card .text-link{font-size:12px}.category-card .text-link span{margin-left:16px}@media(max-width:600px){.category-grid{grid-template-columns:1fr;gap:16px;margin-top:36px}.category-card{padding:26px 24px;border-radius:16px}.category-card ul{font-size:14px}}
