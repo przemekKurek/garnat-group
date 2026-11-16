@@ -1,1 +1,0 @@
-# garnat-group
