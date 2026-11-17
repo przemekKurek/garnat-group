@@ -33,5 +33,5 @@ Stronę otwiera krótki opis firmy i oferty, a poniżej znajduje się osiem kate
 Plik edytor-katalogu.html zawiera tę samą, zaktualizowaną wersję strony.
 
 GRAFIKI PRODUKTÓW
-Każda pozycja w boxach oferty ma miniaturę i otwiera odpowiedni produkt w katalogu. Miniatury w images/miniatury są lekkie i ładowane leniwie; pełne grafiki katalogowe są pobierane podczas przeglądania katalogu.
+Kliknięcie całego boxa oferty otwiera właściwą kategorię katalogu. Boxy zawierają wyłącznie nazwy produktów. Pełne grafiki są dostępne w katalogu i pobierane podczas jego przeglądania.
 Plik GRAFIKI-KATALOGU.json opisuje nowe wizualizacje produktów przygotowane za pomocą imagegen i zapisuje użyte polecenia.
