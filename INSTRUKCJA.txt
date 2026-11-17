@@ -27,8 +27,7 @@ Bez JavaScriptu dostępny jest link do prostego katalogu na osobnej stronie.
 
 Lokalnie możesz otworzyć index.html w przeglądarce albo uruchomić w folderze serwer: python -m http.server 8000.
 
-ZMIANA LOGO I KOLAŻY
-Nagłówek korzysta z nowego sygnetu i logotypu wyciętych z logo.png.
-Sekcja główna: images/kolaz-01.webp (zamiast studio-personalizacja-v5.webp).
-Gadżety reklamowe: images/kolaz-02.webp (zamiast studio-zestaw.webp).
+LOGO I OFERTA
+Nagłówek korzysta z sygnetu i logotypu GARNAT GROUP.
+Stronę otwiera krótki opis firmy i oferty, a poniżej znajduje się osiem kategorii produktów.
 Plik edytor-katalogu.html zawiera tę samą, zaktualizowaną wersję strony.
