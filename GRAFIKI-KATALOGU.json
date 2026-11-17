@@ -1,0 +1,148 @@
+{
+  "method": "Built-in imagegen; original generic product visualizations, official logo and existing catalog used as references.",
+  "referencePages": [
+    "https://calffa.com/promotional-products",
+    "https://www.behance.net/gallery/133335127/Free-Lanyard-Mockup",
+    "https://www.behance.net/gallery/169680499/Free-Product-Branding-PSD-Mockup"
+  ],
+  "assets": [
+    {
+      "id": "mundurki-szkolne",
+      "subject": "Universal navy school uniform",
+      "prompt": "Use case: product-mockup. Single universal product catalog photograph: a neatly arranged generic navy school uniform, white collared shirt under navy V-neck pullover with matching navy pleated skirt and trousers as alternative pieces, no people. Full products visible. Apply the exact copper GARNAT GROUP emblem and wording from image 1 as small realistic embroidery on the pullover left chest. Image 1 is logo reference ONLY. Image 2 is catalog background/style reference ONLY, do not depict its hoodie. Uniform warm light beige background #e8e2d6 matching image 2, soft studio light, natural textile texture, centered square composition, no unrelated brands, captions or props. Logo spelling exactly GARNAT GROUP.",
+      "file": "images/produkt-mundurki-szkolne.webp"
+    },
+    {
+      "id": "dlugopisy-olowki",
+      "subject": "A coordinated pair of generic matte navy ballpoint pens and two natural wood pencils, fine copper GARNAT GROUP wordmark along barrels, flat lay.",
+      "prompt": "Use case: product-mockup. Create a photorealistic universal catalog product photo. Subject: A coordinated pair of generic matte navy ballpoint pens and two natural wood pencils, fine copper GARNAT GROUP wordmark along barrels, flat lay. Use image 1 as EXACT official logo reference, image 2 as background/style reference ONLY (do not include hoodie). Exact logo text GARNAT GROUP, recognizable angular emblem, copper-gold branding applied realistically to product, correct materials. Uniform warm light beige #e8e2d6 background matching reference, soft studio light and contact shadow, isolated centered complete product, square composition with generous margins, no people, no other brands, no captions, no watermark.",
+      "file": "images/produkt-dlugopisy-olowki.webp"
+    },
+    {
+      "id": "piornik",
+      "subject": "One universal navy fabric zip pencil case, realistic copper GARNAT GROUP embroidered logo on front, three-quarter view.",
+      "prompt": "Use case: product-mockup. Create a photorealistic universal catalog product photo. Subject: One universal navy fabric zip pencil case, realistic copper GARNAT GROUP embroidered logo on front, three-quarter view. Use image 1 as EXACT official logo reference, image 2 as background/style reference ONLY (do not include hoodie). Exact logo text GARNAT GROUP, recognizable angular emblem, copper-gold branding applied realistically to product, correct materials. Uniform warm light beige #e8e2d6 background matching reference, soft studio light and contact shadow, isolated centered complete product, square composition with generous margins, no people, no other brands, no captions, no watermark.",
+      "file": "images/produkt-piornik.webp"
+    },
+    {
+      "id": "plecak-worek",
+      "subject": "One generic navy school backpack and one navy cotton drawstring gym sack beside it, copper GARNAT GROUP printed logos.",
+      "prompt": "Use case: product-mockup. Create a photorealistic universal catalog product photo. Subject: One generic navy school backpack and one navy cotton drawstring gym sack beside it, copper GARNAT GROUP printed logos. Use image 1 as EXACT official logo reference, image 2 as background/style reference ONLY (do not include hoodie). Exact logo text GARNAT GROUP, recognizable angular emblem, copper-gold branding applied realistically to product, correct materials. Uniform warm light beige #e8e2d6 background matching reference, soft studio light and contact shadow, isolated centered complete product, square composition with generous margins, no people, no other brands, no captions, no watermark.",
+      "file": "images/produkt-plecak-worek.webp"
+    },
+    {
+      "id": "bidon",
+      "subject": "One universal navy reusable sports water bottle with simple screw cap, copper GARNAT GROUP logo centered on bottle.",
+      "prompt": "Use case: product-mockup. Create a photorealistic universal catalog product photo. Subject: One universal navy reusable sports water bottle with simple screw cap, copper GARNAT GROUP logo centered on bottle. Use image 1 as EXACT official logo reference, image 2 as background/style reference ONLY (do not include hoodie). Exact logo text GARNAT GROUP, recognizable angular emblem, copper-gold branding applied realistically to product, correct materials. Uniform warm light beige #e8e2d6 background matching reference, soft studio light and contact shadow, isolated centered complete product, square composition with generous margins, no people, no other brands, no captions, no watermark.",
+      "file": "images/produkt-bidon.webp"
+    },
+    {
+      "id": "tshirt",
+      "subject": "One generic navy short-sleeved crew-neck cotton T-shirt, front view, copper GARNAT GROUP logo small on left chest, no person.",
+      "prompt": "Use case: product-mockup. Create a photorealistic universal catalog product photo. Subject: One generic navy short-sleeved crew-neck cotton T-shirt, front view, copper GARNAT GROUP logo small on left chest, no person. Use image 1 as EXACT official logo reference, image 2 as background/style reference ONLY (do not include hoodie). Exact logo text GARNAT GROUP, recognizable angular emblem, copper-gold branding applied realistically to product, correct materials. Uniform warm light beige #e8e2d6 background matching reference, soft studio light and contact shadow, isolated centered complete product, square composition with generous margins, no people, no other brands, no captions, no watermark.",
+      "file": "images/produkt-tshirt.webp"
+    },
+    {
+      "id": "polo",
+      "subject": "One generic navy short-sleeved polo shirt with collar and three-button placket, front view, copper GARNAT GROUP embroidered logo small on left chest, no person.",
+      "prompt": "Use case: product-mockup. Create a photorealistic universal catalog product photo. Subject: One generic navy short-sleeved polo shirt with collar and three-button placket, front view, copper GARNAT GROUP embroidered logo small on left chest, no person. Use image 1 as EXACT official logo reference, image 2 as background/style reference ONLY (do not include hoodie). Exact logo text GARNAT GROUP, recognizable angular emblem, copper-gold branding applied realistically to product, correct materials. Uniform warm light beige #e8e2d6 background matching reference, soft studio light and contact shadow, isolated centered complete product, square composition with generous margins, no people, no other brands, no captions, no watermark.",
+      "file": "images/produkt-polo.webp"
+    },
+    {
+      "id": "butelka-termiczna",
+      "subject": "One generic matte navy stainless steel insulated thermal bottle with matching metal screw lid, copper GARNAT GROUP logo on front.",
+      "prompt": "Use case: product-mockup. Create a photorealistic universal catalog product photo. Subject: One generic matte navy stainless steel insulated thermal bottle with matching metal screw lid, copper GARNAT GROUP logo on front. Use image 1 as EXACT official logo reference, image 2 as background/style reference ONLY (do not include hoodie). Exact logo text GARNAT GROUP, recognizable angular emblem, copper-gold branding applied realistically to product, correct materials. Uniform warm light beige #e8e2d6 background matching reference, soft studio light and contact shadow, isolated centered complete product, square composition with generous margins, no people, no other brands, no captions, no watermark.",
+      "file": "images/produkt-butelka-termiczna.webp"
+    },
+    {
+      "id": "pudelko-powitalne",
+      "subject": "One generic rigid navy welcome presentation box with hinged lid open and a second closed lid displaying the copper GARNAT GROUP logo, subtle beige tissue inside, no other products.",
+      "prompt": "Use case: product-mockup. Create a photorealistic universal catalog product photo. Subject: One generic rigid navy welcome presentation box with hinged lid open and a second closed lid displaying the copper GARNAT GROUP logo, subtle beige tissue inside, no other products. Use image 1 as EXACT official logo reference, image 2 as background/style reference ONLY (do not include hoodie). Exact logo text GARNAT GROUP, recognizable angular emblem, copper-gold branding applied realistically to product, correct materials. Uniform warm light beige #e8e2d6 background matching reference, soft studio light and contact shadow, isolated centered complete product, square composition with generous margins, no people, no other brands, no captions, no watermark.",
+      "file": "images/produkt-pudelko-powitalne.webp"
+    },
+    {
+      "id": "wizytowki",
+      "subject": "A neat stack of generic premium white and navy business cards, copper GARNAT GROUP logo printed centrally, minimal layout, no fake contact details.",
+      "prompt": "Use case: product-mockup. Create a photorealistic universal catalog product photo. Subject: A neat stack of generic premium white and navy business cards, copper GARNAT GROUP logo printed centrally, minimal layout, no fake contact details. Use image 1 as EXACT official logo reference, image 2 as background/style reference ONLY (do not include hoodie). Exact logo text GARNAT GROUP, recognizable angular emblem, copper-gold branding applied realistically to product, correct materials. Uniform warm light beige #e8e2d6 background matching reference, soft studio light and contact shadow, isolated centered complete product, square composition with generous margins, no people, no other brands, no captions, no watermark.",
+      "file": "images/produkt-wizytowki.webp"
+    },
+    {
+      "id": "katalogi-foldery",
+      "subject": "A generic A4 printed catalog and a folded presentation folder, navy covers with copper GARNAT GROUP logos, one catalog slightly open showing neutral product page layout without readable filler.",
+      "prompt": "Use case: product-mockup. Create a photorealistic universal catalog product photo. Subject: A generic A4 printed catalog and a folded presentation folder, navy covers with copper GARNAT GROUP logos, one catalog slightly open showing neutral product page layout without readable filler. Use image 1 as EXACT official logo reference, image 2 as background/style reference ONLY (do not include hoodie). Exact logo text GARNAT GROUP, recognizable angular emblem, copper-gold branding applied realistically to product, correct materials. Uniform warm light beige #e8e2d6 background matching reference, soft studio light and contact shadow, isolated centered complete product, square composition with generous margins, no people, no other brands, no captions, no watermark.",
+      "file": "images/produkt-katalogi-foldery.webp"
+    },
+    {
+      "id": "ulotki",
+      "subject": "A neat fan of three universal A5 paper flyers, white and navy design with copper GARNAT GROUP logo, minimal simple graphic blocks, no fake contact details.",
+      "prompt": "Use case: product-mockup. Create a photorealistic universal catalog product photo. Subject: A neat fan of three universal A5 paper flyers, white and navy design with copper GARNAT GROUP logo, minimal simple graphic blocks, no fake contact details. Use image 1 as EXACT official logo reference, image 2 as background/style reference ONLY (do not include hoodie). Exact logo text GARNAT GROUP, recognizable angular emblem, copper-gold branding applied realistically to product, correct materials. Uniform warm light beige #e8e2d6 background matching reference, soft studio light and contact shadow, isolated centered complete product, square composition with generous margins, no people, no other brands, no captions, no watermark.",
+      "file": "images/produkt-ulotki.webp"
+    },
+    {
+      "id": "pudelka-firmowe",
+      "subject": "Two universal navy folding cardboard retail cartons, one small and one medium, assembled with closed flaps, copper GARNAT GROUP printed logo centered on each.",
+      "prompt": "Use case: product-mockup. Create a photorealistic universal catalog product photo. Subject: Two universal navy folding cardboard retail cartons, one small and one medium, assembled with closed flaps, copper GARNAT GROUP printed logo centered on each. Use image 1 as EXACT official logo reference, image 2 as background/style reference ONLY (do not include hoodie). Exact logo text GARNAT GROUP, recognizable angular emblem, copper-gold branding applied realistically to product, correct materials. Uniform warm light beige #e8e2d6 background matching reference, soft studio light and contact shadow, isolated centered complete product, square composition with generous margins, no people, no other brands, no captions, no watermark.",
+      "file": "images/produkt-pudelka-firmowe.webp"
+    },
+    {
+      "id": "torba-papierowa",
+      "subject": "One universal sturdy kraft paper shopping bag with twisted paper handles, copper dark brown GARNAT GROUP logo printed centrally, three-quarter product view.",
+      "prompt": "Use case: product-mockup. Create a photorealistic universal catalog product photo. Subject: One universal sturdy kraft paper shopping bag with twisted paper handles, copper dark brown GARNAT GROUP logo printed centrally, three-quarter product view. Use image 1 as EXACT official logo reference, image 2 as background/style reference ONLY (do not include hoodie). Exact logo text GARNAT GROUP, recognizable angular emblem, copper-gold branding applied realistically to product, correct materials. Uniform warm light beige #e8e2d6 background matching reference, soft studio light and contact shadow, isolated centered complete product, square composition with generous margins, no people, no other brands, no captions, no watermark.",
+      "file": "images/produkt-torba-papierowa.webp"
+    },
+    {
+      "id": "odziez-robocza",
+      "subject": "A universal navy work jacket with reinforced seams and matching utility work trousers, neatly arranged without a person, copper GARNAT GROUP embroidered logo on jacket chest.",
+      "prompt": "Use case: product-mockup. Create a photorealistic universal catalog product photo. Subject: A universal navy work jacket with reinforced seams and matching utility work trousers, neatly arranged without a person, copper GARNAT GROUP embroidered logo on jacket chest. Use image 1 as EXACT official logo reference, image 2 as background/style reference ONLY (do not include hoodie). Exact logo text GARNAT GROUP, recognizable angular emblem, copper-gold branding applied realistically to product, correct materials. Uniform warm light beige #e8e2d6 background matching reference, soft studio light and contact shadow, isolated centered complete product, square composition with generous margins, no people, no other brands, no captions, no watermark.",
+      "file": "images/produkt-odziez-robocza.webp"
+    },
+    {
+      "id": "rekawice",
+      "subject": "One pair of universal gray fabric work gloves with navy rubber coated palms, copper GARNAT GROUP small printed logo on backs, full pair visible, no certification claims.",
+      "prompt": "Use case: product-mockup. Create a photorealistic universal catalog product photo. Subject: One pair of universal gray fabric work gloves with navy rubber coated palms, copper GARNAT GROUP small printed logo on backs, full pair visible, no certification claims. Use image 1 as EXACT official logo reference, image 2 as background/style reference ONLY (do not include hoodie). Exact logo text GARNAT GROUP, recognizable angular emblem, copper-gold branding applied realistically to product, correct materials. Uniform warm light beige #e8e2d6 background matching reference, soft studio light and contact shadow, isolated centered complete product, square composition with generous margins, no people, no other brands, no captions, no watermark.",
+      "file": "images/produkt-rekawice.webp"
+    },
+    {
+      "id": "smycz",
+      "subject": "One universal navy fabric lanyard with metal swivel hook, elegantly looped, repeated copper GARNAT GROUP wordmarks and emblem along strap, no badge.",
+      "prompt": "Use case: product-mockup. Create a photorealistic universal catalog product photo. Subject: One universal navy fabric lanyard with metal swivel hook, elegantly looped, repeated copper GARNAT GROUP wordmarks and emblem along strap, no badge. Use image 1 as EXACT official logo reference, image 2 as background/style reference ONLY (do not include hoodie). Exact logo text GARNAT GROUP, recognizable angular emblem, copper-gold branding applied realistically to product, correct materials. Uniform warm light beige #e8e2d6 background matching reference, soft studio light and contact shadow, isolated centered complete product, square composition with generous margins, no people, no other brands, no captions, no watermark.",
+      "file": "images/produkt-smycz.webp"
+    },
+    {
+      "id": "identyfikator",
+      "subject": "Two universal rigid conference ID cards in transparent holders with clips, navy and white layouts and copper GARNAT GROUP logos, no people's names or portraits.",
+      "prompt": "Use case: product-mockup. Create a photorealistic universal catalog product photo. Subject: Two universal rigid conference ID cards in transparent holders with clips, navy and white layouts and copper GARNAT GROUP logos, no people's names or portraits. Use image 1 as EXACT official logo reference, image 2 as background/style reference ONLY (do not include hoodie). Exact logo text GARNAT GROUP, recognizable angular emblem, copper-gold branding applied realistically to product, correct materials. Uniform warm light beige #e8e2d6 background matching reference, soft studio light and contact shadow, isolated centered complete product, square composition with generous margins, no people, no other brands, no captions, no watermark.",
+      "file": "images/produkt-identyfikator.webp"
+    },
+    {
+      "id": "opaski-eventowe",
+      "subject": "Three universal navy woven fabric event wristbands with simple sliders, copper GARNAT GROUP wordmark woven along each wristband.",
+      "prompt": "Use case: product-mockup. Create a photorealistic universal catalog product photo. Subject: Three universal navy woven fabric event wristbands with simple sliders, copper GARNAT GROUP wordmark woven along each wristband. Use image 1 as EXACT official logo reference, image 2 as background/style reference ONLY (do not include hoodie). Exact logo text GARNAT GROUP, recognizable angular emblem, copper-gold branding applied realistically to product, correct materials. Uniform warm light beige #e8e2d6 background matching reference, soft studio light and contact shadow, isolated centered complete product, square composition with generous margins, no people, no other brands, no captions, no watermark.",
+      "file": "images/produkt-opaski-eventowe.webp"
+    },
+    {
+      "id": "rollup",
+      "subject": "One universal freestanding retractable exhibition roll-up banner with silver base, full standing product visible, clean navy banner with large copper GARNAT GROUP logo, elegant minimal geometric line pattern, no extra marketing copy.",
+      "prompt": "Use case: product-mockup. Create a photorealistic universal catalog product photo. Subject: One universal freestanding retractable exhibition roll-up banner with silver base, full standing product visible, clean navy banner with large copper GARNAT GROUP logo, elegant minimal geometric line pattern, no extra marketing copy. Use image 1 as EXACT official logo reference, image 2 as background/style reference ONLY (do not include hoodie). Exact logo text GARNAT GROUP, recognizable angular emblem, copper-gold branding applied realistically to product, correct materials. Uniform warm light beige #e8e2d6 background matching reference, soft studio light and contact shadow, isolated centered complete product, square composition with generous margins, no people, no other brands, no captions, no watermark.",
+      "file": "images/produkt-rollup.webp"
+    },
+    {
+      "id": "apaszka",
+      "subject": "One universal silk neck scarf loosely draped as a square with a folded corner, navy fabric and tasteful repeated copper GARNAT GROUP angular emblems, one clear GARNAT GROUP logo at corner.",
+      "prompt": "Use case: product-mockup. Create a photorealistic universal catalog product photo. Subject: One universal silk neck scarf loosely draped as a square with a folded corner, navy fabric and tasteful repeated copper GARNAT GROUP angular emblems, one clear GARNAT GROUP logo at corner. Use image 1 as EXACT official logo reference, image 2 as background/style reference ONLY (do not include hoodie). Exact logo text GARNAT GROUP, recognizable angular emblem, copper-gold branding applied realistically to product, correct materials. Uniform warm light beige #e8e2d6 background matching reference, soft studio light and contact shadow, isolated centered complete product, square composition with generous margins, no people, no other brands, no captions, no watermark.",
+      "file": "images/produkt-apaszka.webp"
+    },
+    {
+      "id": "opakowanie-na-wymiar",
+      "subject": "A custom fitted navy rigid presentation case open to show a tailored beige die-cut insert with three different empty accessory recesses, copper GARNAT GROUP logo on inside lid, universal custom packaging.",
+      "prompt": "Use case: product-mockup. Create a photorealistic universal catalog product photo. Subject: A custom fitted navy rigid presentation case open to show a tailored beige die-cut insert with three different empty accessory recesses, copper GARNAT GROUP logo on inside lid, universal custom packaging. Use image 1 as EXACT official logo reference, image 2 as background/style reference ONLY (do not include hoodie). Exact logo text GARNAT GROUP, recognizable angular emblem, copper-gold branding applied realistically to product, correct materials. Uniform warm light beige #e8e2d6 background matching reference, soft studio light and contact shadow, isolated centered complete product, square composition with generous margins, no people, no other brands, no captions, no watermark.",
+      "file": "images/produkt-opakowanie-na-wymiar.webp"
+    },
+    {
+      "id": "akcesoria-projekt",
+      "subject": "A coordinated universal custom accessory set: navy leather key fob, navy luggage tag and slim navy card holder, copper GARNAT GROUP logos debossed or printed on each, no other brand.",
+      "prompt": "Use case: product-mockup. Create a photorealistic universal catalog product photo. Subject: A coordinated universal custom accessory set: navy leather key fob, navy luggage tag and slim navy card holder, copper GARNAT GROUP logos debossed or printed on each, no other brand. Use image 1 as EXACT official logo reference, image 2 as background/style reference ONLY (do not include hoodie). Exact logo text GARNAT GROUP, recognizable angular emblem, copper-gold branding applied realistically to product, correct materials. Uniform warm light beige #e8e2d6 background matching reference, soft studio light and contact shadow, isolated centered complete product, square composition with generous margins, no people, no other brands, no captions, no watermark.",
+      "file": "images/produkt-akcesoria-projekt.webp"
+    }
+  ]
+}

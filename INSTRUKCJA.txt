@@ -31,3 +31,7 @@ LOGO I OFERTA
 Nagłówek korzysta z sygnetu i logotypu GARNAT GROUP.
 Stronę otwiera krótki opis firmy i oferty, a poniżej znajduje się osiem kategorii produktów.
 Plik edytor-katalogu.html zawiera tę samą, zaktualizowaną wersję strony.
+
+GRAFIKI PRODUKTÓW
+Każda pozycja w boxach oferty ma miniaturę i otwiera odpowiedni produkt w katalogu. Miniatury w images/miniatury są lekkie i ładowane leniwie; pełne grafiki katalogowe są pobierane podczas przeglądania katalogu.
+Plik GRAFIKI-KATALOGU.json opisuje nowe wizualizacje produktów przygotowane za pomocą imagegen i zapisuje użyte polecenia.
